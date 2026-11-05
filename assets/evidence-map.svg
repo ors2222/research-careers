@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 490" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio evidence learning loop</title>
+<desc id="desc">An illustrative loop: observe a need, choose a direction, build a small artifact, gather feedback, and revise. The T-shirt brand project is an example where audience assumptions and customer outcomes remain unvalidated.</desc>
+<rect width="960" height="490" rx="24" fill="#fffdf8"/><text x="50" y="57" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#b84f2c" letter-spacing="2">PORTFOLIO EVIDENCE · CONCEPT</text>
+<text x="50" y="106" font-family="Georgia,serif" font-size="34" fill="#14252c">Show the reasoning, then learn from it</text>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#14252c">
+<rect x="90" y="165" width="225" height="92" rx="14" fill="#f5f2ea"/><text x="202" y="202" font-size="13" fill="#b84f2c" font-weight="700">01</text><text x="202" y="230" font-size="18">Observe a need</text>
+<rect x="365" y="165" width="225" height="92" rx="14" fill="#efd981"/><text x="477" y="202" font-size="13" fill="#b84f2c" font-weight="700">02</text><text x="477" y="230" font-size="18">Choose a direction</text>
+<rect x="640" y="165" width="225" height="92" rx="14" fill="#c6ded2"/><text x="752" y="202" font-size="13" fill="#b84f2c" font-weight="700">03</text><text x="752" y="230" font-size="18">Build a small artifact</text>
+<rect x="500" y="315" width="225" height="92" rx="14" fill="#adc8d0"/><text x="612" y="352" font-size="13" fill="#b84f2c" font-weight="700">04</text><text x="612" y="380" font-size="18">Gather feedback</text>
+<rect x="225" y="315" width="225" height="92" rx="14" fill="#f5e1d4"/><text x="337" y="352" font-size="13" fill="#b84f2c" font-weight="700">05</text><text x="337" y="380" font-size="18">Revise and explain</text>
+</g>
+<g fill="none" stroke="#b84f2c" stroke-width="4" stroke-linecap="round"><path d="M315 211h42"/><path d="M590 211h42"/><path d="M755 260v37"/><path d="M500 361h-42"/><path d="M255 315v-43"/></g>
+<rect x="90" y="430" width="775" height="33" rx="8" fill="#f5f2ea"/><text x="477" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#45606a">T-shirt brand example: audience, satisfaction, and fit evidence still need validation</text></svg>
