@@ -2,19 +2,19 @@
 
 A source-backed career exploration and portfolio site about Product Management, Forward Deployed Engineering (FDE), and AI-enabled work.
 
-**Live site:** will be added after GitHub Pages publishes successfully.  
-**Research checked:** November 5, 2026.
+**Open the published website:** [Career Fieldnotes](https://ors2222.github.io/research-careers/)
 
 ## Start here
 
-- [Career research website](index.html)
+- [Open the published career research website](https://ors2222.github.io/research-careers/)
+- [View the homepage HTML source](index.html)
 - [Project plan and issue map](PROJECT_PLAN.md)
 - [Revisions and change log](CHANGELOG.md)
 - [Product Manager role notes](research/product-manager.md)
 - [FDE role notes](research/forward-deployed-engineer.md)
 - [T-shirt brand project case study](research/tshirt-project.md)
 
-The site uses employer career pages for job responsibilities and qualifications. BLS figures are adjacent occupational context and are not presented as Product Manager-specific projections. The T-shirt brand project is a separate, ongoing class project; its assumptions and pending work remain labeled.
+The site uses employer career pages for job responsibilities and qualifications. BLS figures are adjacent occupational context and are not presented as Product Manager-specific projections. The T-shirt brand project is separate; its assumptions and pending work remain labeled.
 
 ## Run locally
 
